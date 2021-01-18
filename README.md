@@ -1,5 +1,5 @@
 # Machine_Learning_Application_in_Commerce
-machine learning examples in commercial area, based on Python, ideas from 《Python大数据分析与机器学习商业案例实战》
+machine learning examples in commercial area, based on Python, ideas from 《Python大数据分析与机器学习商业案例实战》by王宇韬 钱妍竹 机械工业出版社
 
 # 作者 Author
 于智洋
