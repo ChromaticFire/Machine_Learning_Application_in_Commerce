@@ -11,3 +11,4 @@ machine learning examples in commercial area, based on Python, ideas from 《Pyt
 4. 肿瘤良恶预测 朴素贝叶斯分类模型 --- 文件夹名: tumor_prediction_NBModel
 5. 简单图像识别 k近邻模型 --- 文件夹名: image_recognition_MNist_Model
 6. 股价预测 随机森林模型 --- 文件夹名: stock_price_prediction_RFModel
+7. 信用卡精准营销 自适应增强模型 --- 文件夹名: credit_card_precision_marketing_AdaBoostModel
