@@ -13,3 +13,4 @@ machine learning examples in commercial area, based on Python, ideas from 《Pyt
 6. 股价预测 随机森林模型 --- 文件夹名: stock_price_prediction_RFModel
 7. 信用卡精准营销 自适应增强模型 --- 文件夹名: credit_card_precision_marketing_AdaBoostModel
 8. 图书出版定价 梯度增强决策树模型 --- 文件夹名: book_pricing_GBDTModel
+9. 信用卡欺诈分类预测 与信用卡信用评分回归预测 超级梯度增强决策树模型 --- 文件夹名: creditCard_fraud_and_score_XGBoostModel
